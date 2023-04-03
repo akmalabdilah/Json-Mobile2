@@ -1,24 +1,10 @@
-<h3>Biodata Mahasiswa</h3>           
-    <table>
-        <p><tr>
-               <td>Kelas</td>
-               <td>:</td>
-               <td>TI.21.A.1</td>
-               <td>&nbsp;</td>
-       </tr></p>
-       <p><tr>
-               <td>Nama</td>
-               <td>:</td>
-               <td>M. AKMAL AL ABDILAH</td>
-               <td>&nbsp;</td>
-       </tr></p>
-       <p><tr>
-               <td>Nim</td>
-               <td>:</td>
-               <td>312110034</td>
-               <td>&nbsp;</td>
-       </tr></p>
-       </table>
+## Profil
+| #               | Biodata                      |
+| --------------- | ---------------------------- |
+| **Nama**        | M. AKMAL AL ABDILAH          |
+| **NIM**         | 312110034                    |
+| **Kelas**       | TI.21.A.1                    |
+| **Mata Kuliah** | Pemrograman Mobile 2         |
        
 
 
