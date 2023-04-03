@@ -175,4 +175,4 @@ border: 1px solid black;
   
 ```
 
-![Gambar](FILE.PDF)
+![pdf](FILE.PDF)
