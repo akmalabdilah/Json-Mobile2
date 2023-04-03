@@ -175,4 +175,3 @@ border: 1px solid black;
   
 ```
 
-![pdf](FILE.PDF)
